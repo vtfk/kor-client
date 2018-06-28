@@ -39,7 +39,7 @@
   "dependencies": {
     "axios": "0.18.0",
     "jsonwebtoken": "8.3.0",
-    "uuid": "3.2.1"
+    "uuid": "3.3.2"
   },
   "devDependencies": {
     "ava": "0.25.0",
