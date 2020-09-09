@@ -1,6 +1,6 @@
 {
   "name": "@vtfk/kor-client",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Module for retreiving data from kontakt- og reservasjonsregisteret",
   "main": "index.js",
   "files": [
