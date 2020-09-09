@@ -19,7 +19,7 @@
       url: 'https://oidc-yt2.difi.eon.no/kontaktinfo-oauth2-server/rest/v1/personer',
       token: await getToken(tokenOptions),
       payload: {
-        personidentifikatorer: [ '23079422568' ]
+        personidentifikatorer: ['23079422568']
       }
     }
 
