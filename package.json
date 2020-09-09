@@ -1,6 +1,6 @@
 {
-  "name": "kor-client",
-  "version": "1.0.1",
+  "name": "@vtfk/kor-client",
+  "version": "0.1.0",
   "description": "Module for retreiving data from kontakt- og reservasjonsregisteret",
   "main": "index.js",
   "files": [
@@ -16,11 +16,16 @@
   },
   "keywords": [],
   "author": {
-    "name": "Jonas Maccyber Enge",
-    "email": "jonas.enge@gmail.com",
-    "url": "https://github.com/maccyber"
+    "name": "Mats Andreassen",
+    "email": "mats.andreassen@vtfk.no",
+    "url": "https://github.com/matsand"
   },
   "contributors": [
+    {
+      "name": "Jonas Maccyber Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    },
     {
       "name": "Geir Gåsodden",
       "email": "geir.gasodden@pythonia.no",
@@ -30,12 +35,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/telemark/kor-client.git"
+    "url": "git+https://github.com/vtfk/kor-client.git"
   },
   "bugs": {
-    "url": "https://github.com/telemark/kor-client/issues"
+    "url": "https://github.com/vtfk/kor-client/issues"
   },
-  "homepage": "https://github.com/telemark/kor-client#readme",
+  "homepage": "https://github.com/vtfk/kor-client#readme",
   "dependencies": {
     "axios": "0.19.0",
     "jsonwebtoken": "8.5.1",
